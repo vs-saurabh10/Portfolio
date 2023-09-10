@@ -1,0 +1,68 @@
+[
+  { 
+    "name": "Simple Cricket Website",
+    "desc": "I developed this cricket match website using HTML CSS JS PHP .",
+    "image": "cricketweb",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rmgcricketmatch.netlify.app/index.html",
+      "code": "https://github.com/Vikas7075/Cricket_Match_Website-"
+    }
+  },
+  
+  {
+    "name": "Clone-Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "myportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vikas7075/Portfolio-Website"
+    }
+  },
+
+  {
+    "name": "Simple Banking System ",
+    "desc": "This is simple banking system to manage transaction easily.",
+    "image": "tsfproject",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Vikas7075/TSF_Intern_Projects"
+    }
+  },
+  {
+    "name": "Mini PayRoll App in C++",
+    "desc": "This payroll app is recorded the data of employees , you can manage add , update ,search ,delete, print data of employees .",
+    "image": "payroll",
+    "category": "Cli App",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Vikas7075/MiniPayRollApp"
+    }
+  },
+  
+  {
+    "name": "Food Bill App in C++",
+    "desc": "This project help the restaurant to manage , choose food items provides in given list digitaly form and select right dish and order very quickly and in last generate total bill.",
+    "image": "Food",
+    "category": "CLI APP ",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Vikas7075/FoodBillApp"
+    }
+  },
+
+  {
+    "name": "Android Projects Are Under Processing",
+    "desc": "Andoid Aplication ",
+    "image": "android",
+    "category": "Android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+  
+]
