@@ -1,0 +1,7 @@
+public interface AtmOperationInterf
+{
+	public void viewBalance();
+	public void withdrawAmount(double withdrawAmount);
+	public void depositAmount(double depositeamount);
+	public void viewMiniStatement();
+}
